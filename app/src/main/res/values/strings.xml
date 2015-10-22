@@ -3,5 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="edit_message">Gõ gì cũng được.</string>
     <string name="btn_send">Đập</string>
+    <string name="title_activity_display_message">Title của cái Message</string>
 
 </resources>
