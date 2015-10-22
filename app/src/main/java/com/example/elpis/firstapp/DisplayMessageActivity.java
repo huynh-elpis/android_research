@@ -17,7 +17,8 @@ public class DisplayMessageActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_display_message);
         Intent intent = getIntent();
-        String message = "Dập vỡ iPhone là đập vỡ Iphone!!!";//intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
+        String message = getResources().getString(R.string.msg_for_lang);
+                        //intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
 
         TextView textView = new TextView(this);
         textView.setTextSize(40);

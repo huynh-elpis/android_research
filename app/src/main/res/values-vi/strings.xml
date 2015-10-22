@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">con_dau_long</string>
+    <string name="action_settings">Lập cấu hình</string>
+    <string name="edit_message">Gõ gì cũng được.</string>
+    <string name="btn_send">Đập</string>
+    <string name="title_activity_display_message">Title của cái Message</string>
+
+    <string name="msg_for_lang">Dập vỡ iPhone là đập vỡ Iphone!!!</string>
+</resources>

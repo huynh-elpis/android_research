@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">最初のアプリケーション</string>
+    <string name="action_settings">設定</string>
+    <string name="edit_message">あなたが好きなインプット</string>
+    <string name="btn_send">打ち負かします</string>
+    <string name="title_activity_display_message">メッセージの活動のタイトル</string>
+
+    <string name="msg_for_lang">iPhoneは、iPhoneをビートビート。</string>
+</resources>
